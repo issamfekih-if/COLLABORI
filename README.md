@@ -37,7 +37,7 @@
 ![alt text](8.png)
 
 
-- IDE
+- IDE <br>
 ![Static Badge](https://img.shields.io/badge/android%20studio-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&labelColor=%23000000&color=%233ddc84)
 
 - FRAMEWORK
