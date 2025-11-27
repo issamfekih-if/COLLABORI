@@ -60,6 +60,7 @@ to simplify coordination.
 - TOOLS <br>
 ![Static Badge](https://img.shields.io/badge/3.35.3-%20?style=for-the-badge&logo=flutter&logoColor=%235ec8f7&label=SDK%20flutter&labelColor=%23000000&color=%235ec8f7) <br>
 
+![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
 
 
 
