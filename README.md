@@ -69,7 +69,7 @@ User Module <br>
 Event Module <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=sqlite&logoColor=%23003b57&label=sqlite&labelColor=%23000000&color=%23003b57) <br>
 
-
+### How to use
 ```
 flutter create collabori
 flutter clean
