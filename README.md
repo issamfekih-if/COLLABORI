@@ -71,5 +71,10 @@ Event Module <br>
 
 
 ```
-GITHUB
+flutter create collabori
+flutter clean
+flutter pub get
+flutter build apk
+flutter pub upgrade
+flutter doctor
 ```
