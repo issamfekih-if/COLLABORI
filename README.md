@@ -47,9 +47,9 @@
 ![Static Badge](https://img.shields.io/badge/dart-%20?style=for-the-badge&logo=dart&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
 
 - DATABASE <br>
-User Module
+User Module <br>
 ![Static Badge](https://img.shields.io/badge/firebase-%20?style=for-the-badge&logo=firebase&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
-Event Module
+Event Module <br>
 ![Static Badge](https://img.shields.io/badge/sqlite-%20?style=for-the-badge&logo=sqlite&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
 
 
