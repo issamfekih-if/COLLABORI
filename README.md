@@ -2,6 +2,7 @@
 
 
 
+https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%230000ff&color=%23ffffff
 
 
 1. Onboarding, SignUp and SignIn : <br>
