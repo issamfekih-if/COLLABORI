@@ -55,11 +55,10 @@ to simplify coordination.
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=flutter&logoColor=%235ec8f7&label=flutter&labelColor=%23000000&color=%235ec8f7) <br>
 
 - LANGUAGE <br>
-![Static Badge](https://img.shields.io/badge/dart-%20?style=for-the-badge&logo=dart&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=dart&logoColor=%2303589c&label=dart&labelColor=%23000000&color=%2303589c) <br>
 
 - TOOLS <br>
 ![Static Badge](https://img.shields.io/badge/3.35.3-%20?style=for-the-badge&logo=flutter&logoColor=%235ec8f7&label=SDK%20flutter&labelColor=%23000000&color=%235ec8f7) <br>
-
 ![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
 
 
