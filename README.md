@@ -2,13 +2,13 @@
 ![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%237b61ff&color=%23ffffff) <br>
 
 - GITHUB <br>
-> "Collaborative Outing Budget"
+> "Collaborative Outing Budget" <br>
 An app that help users to organize 
 group outings for hikes, parties,
-trips and events. <br>
+trips and events. <br><br>
 Each participant can contribute to the 
 budget, suggest locations or vote 
-for activities <br>
+for activities <br><br>
 The app consolidates all practical information 
 like budget, location, transport and activities
 in a collaborative space with notifications and reminders 
