@@ -52,12 +52,13 @@ to simplify coordination.
 ![Static Badge](https://img.shields.io/badge/2025.1.1-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&label=android%20studio&labelColor=%23000000&color=%233ddc84) <br>
 
 - FRAMEWORK <br>
-![Static Badge](https://img.shields.io/badge/flutter-%20?style=for-the-badge&logo=flutter&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=flutter&logoColor=%235ec8f7&label=flutter&labelColor=%23000000&color=%235ec8f7) <br>
 
 - LANGUAGE <br>
 ![Static Badge](https://img.shields.io/badge/dart-%20?style=for-the-badge&logo=dart&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
 
 - TOOLS <br>
+![Static Badge](https://img.shields.io/badge/3.35.3-%20?style=for-the-badge&logo=flutter&logoColor=%235ec8f7&label=SDK%20flutter&labelColor=%23000000&color=%235ec8f7) <br>
 
 
 
