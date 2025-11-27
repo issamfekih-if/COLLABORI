@@ -3,7 +3,7 @@
 
 ![alt text](1.png)
 
-2. Change password with email or phone method
+2. Change password with email or phone method <br>
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
