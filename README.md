@@ -42,14 +42,12 @@
 ![Static Badge](https://img.shields.io/badge/android%20studio-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&labelColor=%23000000&color=%233ddc84)
 
 - FRAMEWORK <br>
+
 ![Static Badge](https://img.shields.io/badge/flutter-%20?style=for-the-badge&logo=flutter&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
 
 - LANGUAGE <br>
+
 ![Static Badge](https://img.shields.io/badge/dart-%20?style=for-the-badge&logo=dart&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
-
-
-
-
 
 
 
