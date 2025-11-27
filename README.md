@@ -5,12 +5,10 @@
 > "Collaborative Outing Budget"
 An app that help users to organize 
 group outings for hikes, parties,
-trips and events.
-
+trips and events. <br>
 Each participant can contribute to the 
 budget, suggest locations or vote 
-for activities
-
+for activities <br>
 The app consolidates all practical information 
 like budget, location, transport and activities
 in a collaborative space with notifications and reminders 
