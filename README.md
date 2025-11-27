@@ -38,18 +38,18 @@
 
 
 - IDE <br>
-![Static Badge](https://img.shields.io/badge/android%20studio-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&labelColor=%23000000&color=%233ddc84)
+![Static Badge](https://img.shields.io/badge/android%20studio-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&labelColor=%23000000&color=%233ddc84) <br>
 
 - FRAMEWORK <br>
-![Static Badge](https://img.shields.io/badge/flutter-%20?style=for-the-badge&logo=flutter&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/flutter-%20?style=for-the-badge&logo=flutter&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
 
 - LANGUAGE <br>
-![Static Badge](https://img.shields.io/badge/dart-%20?style=for-the-badge&logo=dart&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/dart-%20?style=for-the-badge&logo=dart&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
 
 - DATABASE <br>
 User Module <br>
-![Static Badge](https://img.shields.io/badge/firebase-%20?style=for-the-badge&logo=firebase&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/firebase-%20?style=for-the-badge&logo=firebase&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
 Event Module <br>
-![Static Badge](https://img.shields.io/badge/sqlite-%20?style=for-the-badge&logo=sqlite&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/sqlite-%20?style=for-the-badge&logo=sqlite&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
 
 
