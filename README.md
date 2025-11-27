@@ -53,6 +53,3 @@ Event Module
 ![Static Badge](https://img.shields.io/badge/sqlite-%20?style=for-the-badge&logo=sqlite&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff)
 
 
-
-
-
