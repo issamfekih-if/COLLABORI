@@ -64,7 +64,7 @@ to simplify coordination.
 
 - DATABASE <br>
 User Module <br>
-![Static Badge](https://img.shields.io/badge/firebase-%20?style=for-the-badge&logo=firebase&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
+![Static Badge](https://img.shields.io/badge/20.18.2.0-%20?style=for-the-badge&logo=firebase&logoColor=%23FF9100&label=firebase&labelColor=%23000000&color=%23FF9100) <br>
 Event Module <br>
 ![Static Badge](https://img.shields.io/badge/sqlite-%20?style=for-the-badge&logo=sqlite&logoColor=%23ffffff&labelColor=%23000000&color=%23ffffff) <br>
 
