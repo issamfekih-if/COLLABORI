@@ -47,7 +47,6 @@ to simplify coordination.
 
 ![alt text](8.png)
 
-
 - IDE <br>
 ![Static Badge](https://img.shields.io/badge/2025.1.1-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&label=android%20studio&labelColor=%23000000&color=%233ddc84) <br>
 
@@ -60,8 +59,6 @@ to simplify coordination.
 - TOOLS <br>
 ![Static Badge](https://img.shields.io/badge/3.35.3-%20?style=for-the-badge&logo=flutter&logoColor=%235ec8f7&label=SDK%20flutter&labelColor=%23000000&color=%235ec8f7) <br>
 ![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
-
-
 
 - DATABASE <br>
 User Module <br>
