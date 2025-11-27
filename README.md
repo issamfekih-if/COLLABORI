@@ -1,8 +1,6 @@
 # COLLABORI
+![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%237b61ff&color=%23ffffff) <br>
 
-
-
-![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%230000ff&color=%23ffffff) <br>
 
 
 1. Onboarding, SignUp and SignIn : <br>
